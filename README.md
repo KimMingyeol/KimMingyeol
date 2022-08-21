@@ -1,6 +1,7 @@
 # Hi there 👋
 ### Mingyeol Kim @ POSTECH CSE
-  
+#### Github Blog: https://kimmingyeol.github.io/
+
 <!--
 **KimMingyeol/KimMingyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
