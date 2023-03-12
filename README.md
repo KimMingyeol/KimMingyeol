@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Mingyeol Kim @ POSTECH CSE
-#### Github Blog: https://kimmingyeol.github.io/
+### CV page: https://kimmingyeol.github.io/
 
 <!--
 **KimMingyeol/KimMingyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![readme_1](https://user-images.githubusercontent.com/68853120/185734262-451fdf9f-24c5-416e-99ae-91d37879899f.JPG)
