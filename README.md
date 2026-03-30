@@ -1,6 +1,6 @@
 # Hi there 👋
 ### Mingyeol Kim @ POSTECH CSE
-### CV page: [mingyeol.info](https://mingyeol.info/)
+### CV page: [mingyeol.com](https://mingyeol.com/)
 
 <!--
 **KimMingyeol/KimMingyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
